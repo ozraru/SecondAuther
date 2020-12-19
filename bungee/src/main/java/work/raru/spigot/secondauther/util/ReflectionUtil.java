@@ -1,4 +1,4 @@
-package org.geysermc.floodgate.util;
+package work.raru.spigot.secondauther.util;
 
 import lombok.Getter;
 import lombok.Setter;

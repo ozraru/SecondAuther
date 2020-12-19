@@ -1,4 +1,4 @@
-package org.geysermc.floodgate;
+package work.raru.spigot.secondauther;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufUtil;
@@ -8,7 +8,7 @@ import io.netty.handler.codec.MessageToByteEncoder;
 import lombok.RequiredArgsConstructor;
 import net.md_5.bungee.protocol.MinecraftEncoder;
 import net.md_5.bungee.protocol.Varint21LengthFieldPrepender;
-import org.geysermc.floodgate.util.ReflectionUtil;
+import work.raru.spigot.secondauther.util.ReflectionUtil;
 
 import java.lang.reflect.Field;
 import java.net.InetSocketAddress;

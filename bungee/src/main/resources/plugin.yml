@@ -2,4 +2,4 @@ name: ${project.name}
 description: ${project.description}
 version: ${project.version}
 author: ${project.organization.name}
-main: org.geysermc.floodgate.BungeePlugin
+main: work.raru.spigot.secondauther.BungeePlugin
